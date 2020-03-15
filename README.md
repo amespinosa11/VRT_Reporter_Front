@@ -10,4 +10,14 @@ encuentra en el siguiente [repositorio](https://amespinosa11.github.io/VRT_color
 Para generar un reporte se debe dar click en el botón "Generar Reporte". Es importante recordar que es necesario tener corriendo el script de automatización para poder probar.
 A continuación se muestra un ejemplo de generación de reportes.
 
-![alt-text]()
+
+![alt-text](https://github.com/amespinosa11/VRT_Reporter_Front/blob/master/images/Dashboard.gif)
+
+## Preguntas
+* ¿Ve usted algún problema con los screenshots tomados por Cypress al intentar hacer Visual Regression Testing ?
+* ¿Qué información puedo obtener de una imagen al usar resembleJS y que significado tiene cada uno de los componentes de la respuesta?
+
+
+
+* ¿Qué información puedo obtener al comparar dos imagenes?
+* ¿Qué opciones se pueden seleccionar al realizar la comparación ?
